@@ -1,6 +1,6 @@
 # func-examples
 
-> My divine Nuxt.js project
+> Some examples of functional composition
 
 ## Build Setup
 
@@ -15,8 +15,4 @@ $ yarn dev
 $ yarn build
 $ yarn start
 
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Examples taken from: https://dev.to/wolksoftware/why-typescript-is-a-better-option-than-javascript-when-it-comes-to-functional-programming-3mp0
