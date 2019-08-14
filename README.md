@@ -16,4 +16,4 @@ $ yarn build
 $ yarn start
 
 Examples taken from: 
-<https://dev.to/wolksoftware/why-typescript-is-a-better-option-than-javascript-when-it-comes-to-functional-programming-3mp0>
+* https://dev.to/wolksoftware/why-typescript-is-a-better-option-than-javascript-when-it-comes-to-functional-programming-3mp0
