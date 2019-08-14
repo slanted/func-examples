@@ -11,13 +11,12 @@
 </template>
 
 <script>
+import {isEligibleToVote} from '../src/voterServiceFunc'
+
 let person = {
   birthCountry: "USA",
   age: 22
 }
-import {isEligibleToVote} from '../src/voterService'
-
-
 
 export default {
   data() {
